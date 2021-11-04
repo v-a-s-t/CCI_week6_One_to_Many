@@ -23,9 +23,9 @@ bool isTouched = false;
 
 // Program variables
 int CHANNEL = 0;
-int sizeOfClass = 42;
 int incomingID;
 int incomingHue;
+int sizeOfClass = 42;//update to class size
 
 int myHue = 0; //pick a hue colour between 0 - 65535
 int myID = 20; // change this to be your ID number (between 0 and class size)
